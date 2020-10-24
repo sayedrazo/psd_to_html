@@ -1,0 +1,384 @@
+/* Medium Layout: 992px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+        .single-slide-item h2 {
+                font-size: 50px;
+            }
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+        .header-top-area {
+                font-size: 9px;
+            }
+            .main-menu ul li a {
+                padding: 10px 10px;
+                margin: 20px 0;
+            }
+            
+            .single-slide-item h2 {
+                font-size: 38px;
+            }
+            
+            .single-slide-item p {
+                font-size: 15px;
+            }
+            .factorian-btn.cat-btn {
+                font-size: 11px;
+            }
+            .single-smal-service-item {
+                padding-bottom: 15px;
+                margin-bottom: 15px;
+            }
+            .who-we-are-text p {
+                font-size: 13px;
+                line-height: 20px;
+            }
+            
+            .who-we-are-text h3 {
+                padding: 0;
+            }
+            .padding-left-30 {
+                margin-top: 30px;
+            }
+            .footer-wid p {
+                font-size: 13px;
+            } 
+}
+
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+        .header-top-area {
+                text-align: center;
+            }
+            .main-menu{
+                    display: none;
+            }
+            
+        .text-right {
+                text-align: center;
+            }
+            
+        .text-right {
+                text-align: center!important;
+            }
+            .header-top-area {
+                text-align: center;
+                font-size: 8px;
+            }
+            
+        .logo {
+                text-align: left;
+                padding: 0;
+            }
+            .responsive-menu-wrep {
+                display: block;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+            .header-area {
+                position: relative;
+                z-index: 99;
+            }
+            .responsive-menu-wrep {
+                display: block;
+                position: absolute;
+                top: 50%;
+                right: 0;
+                margin-top: -18px;
+            }
+            
+            .header-area {
+                position: relative;
+                z-index: 99;
+            }
+            
+            .slicknav_menu {
+                background: none;
+                padding: 0;
+            }
+            
+            a.slicknav_btn {
+                margin: 0;
+            }
+            .slicknav_nav {
+                width: 200px;
+                background: #222;
+            }
+        .single-slide-item p {
+                text-align: center;
+                font-size: 15px;
+            }
+            
+        .single-slide-item h2 {
+                text-align: center;
+                font-size: 25px;
+            }
+            .owl-nav {
+                display: block;
+                position: relative;
+                top: -18px;
+            }
+        .single-smal-service-item {
+                padding-bottom: 14px;
+                margin-bottom: 15px;
+            }
+        .single-slide-item h2 {
+                text-align: center;
+                font-size: 31px;
+            }
+            
+        .single-slide-item p {
+                text-align: center;
+                font-size: 14px;
+            }
+            .single-slide-item {
+                height: 450px;
+            }
+            
+            .single-smal-service-item {
+                padding-bottom: 14px;
+                margin-bottom: 15px;
+            }
+           .factorian-btn.slide-btn {
+                margin-left: 41px;
+            }
+            a.service-readmore-btn {
+                padding-bottom: 20px;
+                display: block;
+            }
+            .service-readmore-btn {
+                padding-bottom: 20px;
+                display: block;
+            }
+            
+        .who-we-are-text h3 {
+                margin-top: 20px;
+                padding: 5px 0;
+            }
+            
+        .single-pro-items h3 {
+                font-size: 18px;
+                margin: 0;
+            }
+        .single-service-itms {
+                 margin-bottom: 0px;
+                }
+        .single-pro-items {
+                margin-top: 35px;
+                }
+        .factorian-content-block h3 {
+                font-size: 21px;
+                }
+        .check-list {
+                font-size: 10px;
+                font-weight: 600;
+                }
+                .section-title h3 {
+                        font-size: 15px;
+                    }
+         .who-we-are-text {
+                padding: 0;
+                font-size: 12px;
+                line-height: 18px;
+                }
+         .single-pro-items i.fas.fa-check {
+                top: 14px;
+                    }
+         .single-pro-items p {
+                font-size: 13px;
+                line-height: 25px;
+                }
+        .factorian-content-block {
+                padding: 55px 0;
+                }
+        .padding-left-30 {
+                margin-top: 30px;
+                }
+                .footer-wid {
+                        padding: 9px 0;
+                    }
+        .footer-logo {
+                margin: 0 0 20px;
+                display: inline-block;
+                padding: 10px 13px;                                                             
+                text-transform: uppercase;
+                font-size: 16px;
+                background: #fff;
+                color: #222;
+            }  
+            .factorian-cat-area h2 {
+                margin: 9px 0px;
+                text-align: center;
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+              .main-menu{
+                    display: none;
+            }
+            
+        .text-right {
+                text-align: center!important;
+            }
+            .header-top-area {
+                text-align: center;
+                font-size: 14px;
+            }
+            
+        .logo {
+                text-align: left;
+                padding: 0;
+            }
+            .responsive-menu-wrep {
+                display: block;
+                position: absolute;
+                top: 0;
+                right: 0;
+            }
+            .header-area {
+                position: relative;
+                z-index: 99;
+            }
+            .responsive-menu-wrep {
+                display: block;
+                position: absolute;
+                top: 50%;
+                right: 0;
+                margin-top: -18px;
+            }
+            
+            .header-area {
+                position: relative;
+                z-index: 99;
+            }
+            
+            .slicknav_menu {
+                background: none;
+                padding: 0;
+            }
+            
+            a.slicknav_btn {
+                margin: 0;
+            }
+            .slicknav_nav {
+                width: 200px;
+                background: #222;
+            }
+        .single-slide-item p {
+                text-align: center;
+                font-size: 13px!important;
+            }
+            .single-slide-item h2 {
+                text-align: center;
+                font-size: 27px!important;
+            }
+            .factorian-btn.slide-btn {
+                margin-left: 120px !important;
+            }
+            .owl-nav {
+                display: block;
+                position: relative;
+                top: -18px;
+            } 
+         .single-smal-service-item {
+                padding-bottom: 14px;
+                margin-bottom: 15px;
+            }
+        .single-slide-item h2 {
+                text-align: center;
+                font-size: 31px;
+            }
+            
+        .single-slide-item p {
+                text-align: center;
+                font-size: 14px;
+            }
+            .single-slide-item {
+                height: 450px;
+            }
+            
+            .single-smal-service-item {
+                padding-bottom: 14px;
+                margin-bottom: 15px;
+            }
+            .factorian-btn.slide-btn {
+                margin-left: 41px;
+            }
+            a.service-readmore-btn {
+                padding-bottom: 20px;
+                display: block;
+            }
+            .factorian-cat-area h2 {
+                margin: 9px 0;
+                font-size: 30px;
+            }
+            .service-readmore-btn {
+                padding-bottom: 20px;
+                display: block;
+            }
+            
+        .who-we-are-text h3 {
+                margin-top: 20px;
+                padding: 5px 0;
+            } 
+            
+        .single-pro-items h3 {
+                font-size: 18px;
+                margin: 0;
+            }
+        .single-service-itms {
+                 margin-bottom: 0px;
+                }
+        .single-pro-items {
+                margin-top: 35px;
+                }
+        .factorian-content-block h3 {
+                font-size: 21px;
+                }
+        .check-list {
+                font-size: 10px;
+                font-weight: 600;
+                }
+                .section-title h3 {
+                        font-size: 15px;
+                    }
+                    .factorian-cat-area h2 {
+                        margin: 9px 0px;
+                        text-align: center;
+                    }
+         .who-we-are-text {
+                padding: 0;
+                font-size: 12px;
+                line-height: 18px;
+                }
+         .single-pro-items i.fas.fa-check {
+                top: 14px;
+                    }
+         .single-pro-items p {
+                font-size: 13px;
+                line-height: 25px;
+                }
+        .factorian-content-block {
+                padding: 55px 0;
+                }
+        .padding-left-30 {
+                margin-top: 30px;
+                }
+        .footer-logo {
+                margin: 0 0 20px;
+                display: inline-block;
+                padding: 10px 13px;
+                text-transform: uppercase;
+                font-size: 16px;
+                background: #fff;
+                color: #222;}
+} 
